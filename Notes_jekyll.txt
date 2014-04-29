@@ -1,0 +1,14 @@
+
+Following the instructions on
+http://jekyllrb.com/docs/installation/
+https://help.github.com/articles/using-jekyll-with-pages, to install bundler
+then for windows
+http://www.madhur.co.in/blog/2011/09/01/runningjekyllwindows.html
+
+I decide to go for Rouge for code syntax highlighting, rather than the python pygments. Use the 'gem 1.3.3' icon on the readme of the Rouge repo, to get to the gems web site (like NuGet)
+
+Then back to https://help.github.com/articles/using-jekyll-with-pages, setp 3 Jekyll. A bit confusing about what to put in the Gemfile
+
+https://help.github.com/articles/creating-project-pages-manually#create-a-gh-pages-branch
+
+
